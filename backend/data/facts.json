@@ -1,0 +1,21 @@
+{
+    "full_name": "Ismail Smith",
+    "name": "Izy",
+    "current_role": "AI Engineer",
+    "location": "NZ",
+    "email": "Ismail.Smith@example.com",
+    "linkedin": "linkedin.com/in/i.Smith",
+    "specialties": [
+      "AI Engineer",
+      "AI Archiect ",
+      "Tech Lead"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Computer Science Degree",
+        "institution": "Wellington",
+        "year": "2021"
+      }
+    ]
+  }
